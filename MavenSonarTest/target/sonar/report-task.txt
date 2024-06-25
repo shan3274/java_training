@@ -1,0 +1,6 @@
+projectKey=Demomaven:MavenSonarTest
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/Demomaven:MavenSonarTest
+ceTaskId=AY-lHdLc7ynbj1evwNGa
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY-lHdLc7ynbj1evwNGa

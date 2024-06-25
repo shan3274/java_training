@@ -1,0 +1,6 @@
+projectKey=com.accenture.sport:sport
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.accenture.sport:sport
+ceTaskId=AY-p-XXJ9Htdg7SLG2kY
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AY-p-XXJ9Htdg7SLG2kY
